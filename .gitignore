@@ -1,0 +1,7 @@
+*.o
+*.d
+a.out
+libft.a
+/obj/
+/tests/bin/
+.DS_Store
